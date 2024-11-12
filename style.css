@@ -19,7 +19,7 @@ body::before {
 	filter: blur(10px);
 	z-index: -1;
 	background-color: #000;
-	background-image: url('smaku.PNG'); /*percorso immagine */
+	background-image: url('smaku.png'); /*percorso immagine */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
